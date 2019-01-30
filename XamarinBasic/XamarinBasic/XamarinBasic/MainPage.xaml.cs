@@ -24,10 +24,5 @@ namespace XamarinBasic
         {
             Navigation.PushAsync(new App2());
         }
-
-        private void BtnApp3_Clicked(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new App3());
-        }
     }
 }
