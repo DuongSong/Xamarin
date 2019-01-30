@@ -13,10 +13,6 @@
             Text="App2"
             x:Name="btnApp2"
             Clicked="BtnApp2_Clicked"/>
-        <Button
-            Text="App3"
-            x:Name="btnApp3"
-            Clicked="BtnApp3_Clicked"/>
     </StackLayout>
 
 </ContentPage>
