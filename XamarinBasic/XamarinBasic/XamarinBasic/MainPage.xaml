@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinBasic"
+             x:Class="XamarinBasic.MainPage">
+    <StackLayout
+        >
+        <Button
+            Text="App1"
+            x:Name="btnApp1"
+            Clicked="BtnApp1_Clicked"/>
+        <Button
+            Text="App2"
+            x:Name="btnApp2"
+            Clicked="BtnApp2_Clicked"/>
+        <Button
+            Text="App3"
+            x:Name="btnApp3"
+            Clicked="BtnApp3_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

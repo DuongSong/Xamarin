@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinBasic.App1">
+    <ContentPage.Content>
+        <RelativeLayout
+        BackgroundColor="BlueViolet">
+            <Label
+            Text="MiniGame"
+            TextColor="Black"
+            FontSize="50"
+            Margin="70, 0, 0, 0"/>
+            <Button
+            Text="1"
+            FontSize="50"
+            BackgroundColor="Red"
+            WidthRequest="100"
+            HeightRequest="100"
+            HorizontalOptions="Start"
+            Margin="80, 150, 0, 0"
+            x:Name="btnRed"
+            Clicked="btn_Clicked"/>
+            <Button
+            Text="2"
+            FontSize="50"
+            BackgroundColor="Yellow"
+            WidthRequest="100"
+            HeightRequest="100"
+            HorizontalOptions="Start"
+            Margin="190, 150"
+            x:Name="btnYellow"
+            Clicked="btn_Clicked"/>
+            <Button
+            Text="3"
+            FontSize="50"
+            BackgroundColor="Blue"
+            WidthRequest="100"
+            HeightRequest="100"
+            HorizontalOptions="Start"
+            Margin="80, 260"
+            x:Name="btnBlue"
+            Clicked="btn_Clicked"/>
+            <Button
+            Text="4"
+            FontSize="50"
+            BackgroundColor="Green"
+            WidthRequest="100"
+            HeightRequest="100"
+            HorizontalOptions="Start"
+            Margin="190, 260"
+            x:Name="btnGreen"
+            Clicked="btn_Clicked"/>
+            <Label
+            Text="Your Score: "
+            TextColor="Black"
+            FontSize="50"
+            HeightRequest="60"
+            HorizontalOptions="Center"
+            VerticalTextAlignment="Center"
+            Margin="40, 400"/>
+            <Label
+            Text=" 0"
+            TextColor="Black"
+            FontSize="50"
+            Margin="290, 400, 0, 0"
+            x:Name="lbScore"/>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

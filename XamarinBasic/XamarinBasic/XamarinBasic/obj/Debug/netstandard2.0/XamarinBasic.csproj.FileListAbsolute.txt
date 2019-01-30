@@ -1,0 +1,15 @@
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.csprojAssemblyReference.cache
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.csproj.CoreCompileInputs.cache
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.AssemblyInfoInputs.cache
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.AssemblyInfo.cs
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\bin\Debug\netstandard2.0\XamarinBasic.deps.json
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\bin\Debug\netstandard2.0\XamarinBasic.dll
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\bin\Debug\netstandard2.0\XamarinBasic.pdb
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.dll
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\XamarinBasic.pdb
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\App1.xaml.g.cs
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\App2.xaml.g.cs
+D:\Project\XamarinBasic\XamarinBasic\XamarinBasic\obj\Debug\netstandard2.0\App3.xaml.g.cs
